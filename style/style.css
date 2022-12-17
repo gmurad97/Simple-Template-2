@@ -1,0 +1,17 @@
+.gm-navbar-struct {
+    border-radius: 0px;
+    background-color: #353A40;
+}
+
+.gm-brand-color {
+    color: #FFFFFF !important;
+}
+
+.gm-wrap {
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.gm-active-modified>a {
+    background-color: transparent !important;
+}
